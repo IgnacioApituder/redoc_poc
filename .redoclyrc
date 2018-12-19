@@ -1,0 +1,7 @@
+specFileName: swagger.json
+apiTitle: APItude-booking-poc
+splitSpec: false
+codeSamples: true
+swaggerUI: true
+travis: false
+oasVersion: '2.0'
