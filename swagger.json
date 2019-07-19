@@ -33,7 +33,8 @@
   "schemes": [
     "https"
   ],
-  "/{version}/hotels": {
+  "paths": {
+    "/{version}/hotels": {
       "post": {
         "tags": [
           "hotels"
